@@ -1,1 +1,2 @@
-# cv-learning-journey
+# cv-learning-journey 
+update readme
